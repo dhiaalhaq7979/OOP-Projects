@@ -85,5 +85,5 @@ g++ -std=c++17 -Wall student-management-system/*.cpp -o sms
 
 ## Author
 
-**Dhia Alhaq Saleh Al-Hindrish** — BS Software Engineering, Superior University, Lahore
+**Dheya Alhag** — BS Software Engineering, Superior University, Lahore
 GitHub: [@dhiaalhaq7979](https://github.com/dhiaalhaq7979)
